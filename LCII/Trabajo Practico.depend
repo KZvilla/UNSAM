@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666767278 source:f:\cristian\descargas\unsam\tp labo ii\tp\trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<errno.h>
+	<ctype.h>
+
