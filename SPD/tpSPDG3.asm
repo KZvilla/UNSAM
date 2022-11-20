@@ -29,14 +29,14 @@
 ;Texto LOGO - LOGO
 ;-------------------------------------------------------------------------------------------- 
 
-    texto0     db " $"
+    texto0     db "$"
     texto1     db "UNSAM - Escuela de CyT.$"                             ;LIMITE DE CARACTERES ES 30 por renglon punto inlcluido
     texto2     db "$"
     texto3     db "$"
     texto4     db "$"
     textoEnter db "PULSE UNA TECLA PARA INICIAR.$"
     texto6     db "$"
-    texto7     db "Construido y programado por: $"
+    texto7     db "Construido y programado por:$"
     texto8     db "    Cris   Valen    Pipo    $"
     textoE     db "        Mati   Martin       $"
     dibujo  db 00h,00h,03h,03h,03h,03h,00h,00h,00h,00h,00h,03h,03h,03h,03h,00h ;11*14 8 | f*C 
